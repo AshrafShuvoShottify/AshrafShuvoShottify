@@ -41,9 +41,9 @@
 <p>I've solved 230+ problems and counting on platforms like Codeforces and Codechef. Check out my solutions on <a href="https://github.com/AshrafShuvo022/red-coder1">Problem_Solutions</a>.</p>
 
 <!---
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AshrafShuvo022&show_icons=true&locale=en&layout=compact" alt="AshrafShuvo022" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AshrafShuvo022&show_icons=true&locale=en" alt="AshrafShuvo022" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AshrafShuvo022&theme=dark" alt="AshrafShuvo022" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AshrafShuvoShottify&show_icons=true&locale=en&layout=compact" alt="AshrafShuvoShottify" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AshrafShuvoShottify&show_icons=true&locale=en" alt="AshrafShuvoShottify" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AshrafShuvoShottify&theme=dark" alt="AshrafShuvoShottify" /></p>
 --->
 
 ## Github Stats
